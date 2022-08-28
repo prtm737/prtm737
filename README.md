@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Pritom Parashar</h1>
-<h3 align="center">A Passionate Full Stack Web Developer from India.</h3>
+<h3 align="center">A Passionate Full-Stack Developer from India.</h3>
 <img
       align="right"
       src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
